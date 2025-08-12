@@ -88,7 +88,7 @@ connection = at115200</p>
 <p class="has-line-data" data-line-start="129" data-line-end="130">[smsd]</p>
 <p class="has-line-data" data-line-start="131" data-line-end="133">CheckSecurity = false  ###nn manda warn se nn c’e PIN<br>
 PIN =</p>
-<p class="has-line-data" data-line-start="134" data-line-end="135">SMSC = +393770001016 ### Centro messaggi HO Mobule</p>
+<p class="has-line-data" data-line-start="134" data-line-end="135">SMSC = +393770001016 ### Centro messaggi HO Mobile</p>
 <p class="has-line-data" data-line-start="136" data-line-end="140">commtimeout = 10 ###30<br>
 sendtimeout = 10 ###30<br>
 MaxRetries  = 10<br>
