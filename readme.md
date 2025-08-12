@@ -89,7 +89,7 @@ sc query GammuSMSD<br>
 Oppure apri services.msc e cerca “GammuSMSD”</p>
 <p class="has-line-data" data-line-start="139" data-line-end="140">e dovrebbe andare tutto bene!!!</p>
 <p class="has-line-data" data-line-start="141" data-line-end="143">per accedere alla pagina di kalkun come admin:<br>
-admin/Infosystem10</p>
+kalkun/kalkun</p>
 <p class="has-line-data" data-line-start="144" data-line-end="152">BONUS:<br>
 per poter eseguire gammu-smsd.exe con MySQL (OBDC), essendo Signal un comando interno a MySQL, ma anche una tabella gammu<br>
 per indicare il valore del segnale GSM, bisogna patchare l’eseguibile “gammu-smsd.exe” con un hex editor:<br>
