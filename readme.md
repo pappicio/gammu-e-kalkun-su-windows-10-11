@@ -117,7 +117,9 @@ chiamate in arrivo, dopo aver riagganciato “HangupCalls = 1”)</p>
 <p class="has-line-data" data-line-start="174" data-line-end="175">e kalkun invia e riceve sms</p>
 <p class="has-line-data" data-line-start="176" data-line-end="178">possiamo rieseguire xampp come amministratore e installare i servizi per MySQL e apache ()<br>
 (il tastino alla sinistra dei 2 applicativi cosi installiamo i servizi e via!!!)</p>
-<p class="has-line-data" data-line-start="181" data-line-end="184">per verificare il servizio:<br>
+<p class="has-line-data" data-line-start="181" data-line-end="184">anche gammu-smsmd si puo avviare come servizio</p>p
+ <p class="has-line-data" data-line-start="174" data-line-end="175">digitare da DOS come admin-, c;\gammusmsd -c c:\gammu\smsdrc -i</p>
+ <br>
 sc query GammuSMSD<br>
 Oppure apri services.msc e cerca “GammuSMSD”</p>
 <p class="has-line-data" data-line-start="185" data-line-end="186">e dovrebbe andare tutto bene!!!</p>
