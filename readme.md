@@ -132,7 +132,7 @@ dell’ exe per incompatibilità con mySQL engine.<br>
 fatto cio, salvate, eseguite e appost! ora sto usando ultima versione di GAMMU 64 bit e kalkun su xampp ultima versione<br>
 per PHP 8.2.12 e tutto funziona alla perfezione, e su WINDOWS!!! che non è poco!!!</p>
 <p class="has-line-data" data-line-start="199" data-line-end="202">BONUS2:<br>
-per risolvere il problema del mancato invio su multipart, usare questo trick sul database (database nella cartella gammu gia mdificato ad oc!!!)<br>
+per risolvere il problema del mancato invio su multipart, usare questo trick sul database<br>
 e in gammu_:model nell’invio multipart, gia fixato anche nel codice php!!!</p>
 <p class="has-line-data" data-line-start="203" data-line-end="205">ALTER TABLE outbox<br>
 MODIFY MultiPart VARCHAR(6) NOT NULL DEFAULT ‘0’;</p>
