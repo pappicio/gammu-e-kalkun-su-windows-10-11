@@ -150,7 +150,7 @@ da:<br>
 $this-&gt;db-&gt;select(‘Signal’);<br>
 a:<br>
 $this-&gt;db-&gt;select(‘Signao’);</p>
-<p class="has-line-data" data-line-start="223" data-line-end="227">ora, per inviare multipart con 1 e 0 amziche true e false (il famoso bug per cui gammu nn invia sms multipart, dopo li invierà!!!)<br>
+<p class="has-line-data" data-line-start="223" data-line-end="227">ora, per inviare multipart con 1 e 0 anziche true e false (il famoso bug per cui gammu non invia sms multipart, dopo li invierà!!!)<br>
 nel file: C:\xampp\htdocs\kalkun\application\models\gateway\Gammu_model.php<br>
 sotto:<br>
 ‘RelativeValidity’ =&gt; $tmp_data[‘validity’],</p>
