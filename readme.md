@@ -52,7 +52,7 @@ MultiPart varchar(6) NOT NULL DEFAULT ‘0’,</p>
 Signal integer NOT NULL DEFAULT -1,<br>
 aggiungere una voce simile:<br>
 Signao integer NOT NULL DEFAULT -1,<br>
-(altro problema, mysql nn accetta dati con nome “Signal” e noi ne creiamo un’altra con nome Signao, poi vi spoego perche!)</p>
+(altro problema, mysql nn accetta dati con nome “Signal” e noi ne creiamo un’altra con nome Signao, poi vi spiego perche!)</p>
 <p class="has-line-data" data-line-start="74" data-line-end="75">salvare.</p>
 <p class="has-line-data" data-line-start="76" data-line-end="77">e importare il db di gammu con phpmyadmin</p>
 <p class="has-line-data" data-line-start="80" data-line-end="82">installare: Visual-C-Runtimes-All-in-One-Jul-2025<br>
