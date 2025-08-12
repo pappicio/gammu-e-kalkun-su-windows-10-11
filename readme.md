@@ -47,7 +47,7 @@ e da<br>
 MultiPart enum(‘false’,‘true’) default ‘false’,<br>
 a:<br>
 MultiPart varchar(6) NOT NULL DEFAULT ‘0’,</p>
-<p class="has-line-data" data-line-start="66" data-line-end="67">(un avolo di bug, che nn fa inviare i messaggi multipart da kalkun, molto grave, ma cosi si risolve!!!)</p>
+<p class="has-line-data" data-line-start="66" data-line-end="67">(un cavolo di bug, che nn fa inviare i messaggi multipart da kalkun, molto grave, ma cosi si risolve!!!)</p>
 <p class="has-line-data" data-line-start="68" data-line-end="73">sotto la voce:<br>
 Signal integer NOT NULL DEFAULT -1,<br>
 aggiungere una voce simile:<br>
