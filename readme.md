@@ -4,7 +4,7 @@
 <p class="has-line-data" data-line-start="4" data-line-end="5">(kalkun versione: 0.8.3.2_forPHP8.2.12 - <a href="https://sourceforge.net/projects/kalkun/files/v0.8.3.2/Kalkun_v0.8.3.2_forPHP8.2.12.zip/download">https://sourceforge.net/projects/kalkun/files/v0.8.3.2/Kalkun_v0.8.3.2_forPHP8.2.12.zip/download</a> )</p>
 <p class="has-line-data" data-line-start="6" data-line-end="7">gammu ultima versione per windows</p>
 <p class="has-line-data" data-line-start="8" data-line-end="9">(gammu per windows versione 1.42 windows 64 bit - <a href="https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe">https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe</a>)</p>
-<p class="has-line-data" data-line-start="11" data-line-end="12">dopo aver installato xampp importare la kartella kslkun in c:\xampp\htdocs\kalkun</p>
+<p class="has-line-data" data-line-start="11" data-line-end="12">dopo aver installato xampp importare la kartella kalkun in c:\xampp\htdocs\kalkun</p>
 <p class="has-line-data" data-line-start="13" data-line-end="14">(effettuare alcune configurazioni sul config kalkun, pee accettare database mariadb - mySQL)</p>
 <p class="has-line-data" data-line-start="15" data-line-end="37">c:\xampp\htdocs\kalkun\application\database.php<br>
 $db[‘kalkun_mysql’] = array(<br>
