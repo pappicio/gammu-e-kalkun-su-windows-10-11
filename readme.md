@@ -29,12 +29,12 @@ $db[‘kalkun_mysql’] = array(<br>
 ‘save_queries’ =&gt; TRUE<br>
 );</p>
 <p class="has-line-data" data-line-start="37" data-line-end="38">abilitare su php.ini: ;extension=intl (togliendo il ;), riavviare xampp diciamo.</p>
-<p class="has-line-data" data-line-start="39" data-line-end="40">disabilitare “core” (come da foto allegata) da “sicurezza di windiws/condivisione memoria”, e riavviare il pc. (questo serve per installare i drivers modem con mobile partner)</p>
+<p class="has-line-data" data-line-start="39" data-line-end="40">disabilitare “core” da “sicurezza di windiws/condivisione memoria”, e riavviare il pc. (questo serve per installare i drivers modem con mobile partner)</p>
 <p class="has-line-data" data-line-start="41" data-line-end="42"><a href="https://www.huaweicalculator.com/download-mobile-partner-23-015-02-01-910/">https://www.huaweicalculator.com/download-mobile-partner-23-015-02-01-910/</a></p>
 <p class="has-line-data" data-line-start="43" data-line-end="44">installare Mobile_Partner_23.015.11.01.983  (che trovi in “tutto il necessario”)</p>
 <p class="has-line-data" data-line-start="45" data-line-end="46">(riavviare il pc?!?!?!)</p>
 <p class="has-line-data" data-line-start="47" data-line-end="48">andare su localhost/phpmyadmin</p>
-<p class="has-line-data" data-line-start="49" data-line-end="50">creare un nuovo utente “root” dal nome che volete</p>
+<p class="has-line-data" data-line-start="49" data-line-end="50">creare un nuovo utente con permessi “root” dal nome che volete</p>
 <p class="has-line-data" data-line-start="51" data-line-end="52">dare tutti i permessi, password “xxxxxxxxx”</p>
 <p class="has-line-data" data-line-start="53" data-line-end="54">creare una password per utente root di MySQL.</p>
 <p class="has-line-data" data-line-start="55" data-line-end="65">creare nuovo database: kalkun<br>
