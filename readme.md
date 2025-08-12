@@ -164,7 +164,7 @@ $data[‘MultiPart’] = 1; //////‘true’;</p>
 <p class="has-line-data" data-line-start="237" data-line-end="241">ok, finito, ora avete:<br>
 gammu-smsd.exe patchato per comunicare il segnale GSM in modo che ODBC o cmq MySQL lo accettano (Signao, al posto di Signal)<br>
 mysql.sql, aggiornato per accettare in modo corretto la voce multipart e la voce “Signao” che fa si che gammu-smsd.exe non crashi perhce nn trova tabella (Signao) giusta<br>
-kalkun modificato per accettare la ovce signao e mostrarla come segnale GSM, multipart da inviare foxato.</p>
-<p class="has-line-data" data-line-start="242" data-line-end="243">avviate il tutto e vedrete che tutto funzionerà allagrande!</p>
+kalkun modificato per accettare la ovce signao e mostrarla come segnale GSM, multipart da inviare fixato.</p>
+<p class="has-line-data" data-line-start="242" data-line-end="243">avviate il tutto e vedrete che tutto funzionerà alla grande!</p>
 
 </body></html>
