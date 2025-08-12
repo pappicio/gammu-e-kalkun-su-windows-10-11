@@ -15,8 +15,10 @@ dopo aver installato xampp importare la kartella kslkun in c:\xampp\htdocs\kalku
 c:\xampp\htdocs\kalkun\application\database.php
 
 $db['kalkun_mysql'] = array(
-  'dsn' => '',
-  'hostname' => '127.0.0.1',
+
+ 'dsn' => '',
+
+ 'hostname' => '127.0.0.1',
 
  'username' => 'username del database con diritti ROOT',
 
