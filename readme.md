@@ -3,8 +3,9 @@
 <p class="has-line-data" data-line-start="2" data-line-end="4">scaricare kalkun e gammu<br>
 (kalkun versione: 0.8.3.2_forPHP8.2.12 - <a href="https://sourceforge.net/projects/kalkun/files/v0.8.3.2/Kalkun_v0.8.3.2_forPHP8.2.12.zip/download">https://sourceforge.net/projects/kalkun/files/v0.8.3.2/Kalkun_v0.8.3.2_forPHP8.2.12.zip/download</a> )</p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">gammu ultima versione per windows</p>
-andare su c:\programmi\gammu\bin e copiarne il contenuto in c:\gammu\ (da ora in poi gammu.exe sarà in c:\gammu\gammu.exe ecc.....)<br>
 <p class="has-line-data" data-line-start="7" data-line-end="8">(gammu per windows versione 1.42 windows 64 bit - <a href="https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe">https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe</a>)</p>
+installare GAMMU, andare poi su c:\programmi\gammu\bin e copiarne il contenuto in c:\gammu\ (da ora in poi gammu.exe sarà in c:\gammu\gammu.exe ecc.....)<br>
+<br>
 <p class="has-line-data" data-line-start="10" data-line-end="11">dopo aver installato xampp importare la kartella kalkun in c:\xampp\htdocs\kalkun</p>
 <p class="has-line-data" data-line-start="12" data-line-end="13">(effettuare alcune configurazioni sul config kalkun, per accedere al database mariadb - mySQL)</p>
 <p class="has-line-data" data-line-start="14" data-line-end="36">c:\xampp\htdocs\kalkun\application\database.php<br>
