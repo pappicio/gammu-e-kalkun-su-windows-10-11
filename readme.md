@@ -107,7 +107,6 @@ debuglevel = 2 ### da 0 (less) a 255 (full)</p>
 RunOnIncomingCall = c:\gammu\call_autoreply.bat (lo script è mio, ma potete crearne uno voi per rispondere alle<br>
 chiamate in arrivo, dopo aver riagganciato “HangupCalls = 1”)</p>
 <h5 class="code-line" data-line-start=156 data-line-end=157 ><a id="FINE_FILE_156"></a>FINE FILE</h5>
-<p class="has-line-data" data-line-start="157" data-line-end="158">salvate e via…</p>
 <p class="has-line-data" data-line-start="159" data-line-end="160">ok salvate e ora…</p>
 <p class="has-line-data" data-line-start="161" data-line-end="162">per testare comunicazione con modem:</p>
 <p class="has-line-data" data-line-start="163" data-line-end="164">cd\</p>
