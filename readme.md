@@ -139,7 +139,7 @@ e in gammu_:model nell’invio multipart, gia fixato anche nel codice php!!!</p>
 <p class="has-line-data" data-line-start="203" data-line-end="205">ALTER TABLE outbox<br>
 MODIFY MultiPart VARCHAR(6) NOT NULL DEFAULT ‘0’;</p>
 <p class="has-line-data" data-line-start="206" data-line-end="207">(con adminer sul db, volendo!!!)</p>
-<p class="has-line-data" data-line-start="208" data-line-end="221">anche su kalkun tocca fsre delle modifiche:<br>
+<p class="has-line-data" data-line-start="208" data-line-end="221">anche su kalkun tocca fare delle modifiche:<br>
 nel file: C:\xampp\htdocs\kalkun\application\controllers\Kalkun.php<br>
 cambiare:<br>
 da:<br>
