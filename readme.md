@@ -5,7 +5,7 @@
 <p class="has-line-data" data-line-start="5" data-line-end="6">gammu ultima versione per windows</p>
 <p class="has-line-data" data-line-start="7" data-line-end="8">(gammu per windows versione 1.42 windows 64 bit - <a href="https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe">https://dl.cihar.com/gammu/releases/windows/Gammu-1.42.0-Windows-64bit.exe</a>)</p>
 <p class="has-line-data" data-line-start="10" data-line-end="11">dopo aver installato xampp importare la kartella kalkun in c:\xampp\htdocs\kalkun</p>
-<p class="has-line-data" data-line-start="12" data-line-end="13">(effettuare alcune configurazioni sul config kalkun, pee accettare database mariadb - mySQL)</p>
+<p class="has-line-data" data-line-start="12" data-line-end="13">(effettuare alcune configurazioni sul config kalkun, per accedere al database mariadb - mySQL)</p>
 <p class="has-line-data" data-line-start="14" data-line-end="36">c:\xampp\htdocs\kalkun\application\database.php<br>
 $db[‘kalkun_mysql’] = array(<br>
 ‘dsn’   =&gt; ‘’,<br>
