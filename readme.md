@@ -40,7 +40,7 @@ $db[‘kalkun_mysql’] = array(<br>
 <p class="has-line-data" data-line-start="51" data-line-end="52">dare tutti i permessi, password “xxxxxxxxx”</p>
 <p class="has-line-data" data-line-start="53" data-line-end="54">creare una password per utente root di MySQL.</p>
 <p class="has-line-data" data-line-start="55" data-line-end="65">creare nuovo database: kalkun<br>
-modificare il db mysql.sql (Gammu-1.42.0-Windows-64bit\share\doc\gammu\examples\sql) cosi:<br>
+modificare il db mysql.sql (c:\programmi\gammu.1.42\share\doc\gammu\examples\sql) cosi (anzi, copiate il file mysql.sql in c:\gammu\, cosi da averlo a portata piu facilmente):<br>
 da:<br>
 ReceivingDateTime timestamp NOT NULL default CURRENT_TIMESTAMP,<br>
 a:<br>
