@@ -158,7 +158,7 @@ $this-&gt;db-&gt;select(‘Signao’);</p>
 nel file: C:\xampp\htdocs\kalkun\application\models\gateway\Gammu_model.php<br>
 sotto:<br>
 ‘RelativeValidity’ =&gt; $tmp_data[‘validity’],</p>
-<p class="has-line-data" data-line-start="228" data-line-end="230">aggiunfere:<br>
+<p class="has-line-data" data-line-start="228" data-line-end="230">aggiungere:<br>
 ‘MultiPart’        =&gt; 0, // default sempre 0</p>
 <p class="has-line-data" data-line-start="231" data-line-end="236">e<br>
 sotto la linea:<br>
