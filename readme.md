@@ -47,11 +47,12 @@ e da<br>
 MultiPart enum(‘false’,‘true’) default ‘false’,<br>
 a:<br>
 MultiPart varchar(6) NOT NULL DEFAULT ‘0’,</p>
-<p class="has-line-data" data-line-start="66" data-line-end="67">(un cavolo di bug, che nn fa inviare i messaggi multipart da kalkun, molto grave, ma cosi si risolve!!!)</p>
+<p class="has-line-data" data-line-start="66" data-line-end="67">(un grosso bug, che nn fa inviare i messaggi multipart da kalkun, molto grave, ma cosi si risolve!!!)</p>
 <p class="has-line-data" data-line-start="68" data-line-end="73">sotto la voce:<br>
 Signal integer NOT NULL DEFAULT -1,<br>
-aggiungere una voce simile:<br>
+aggiungere una voce quasi uguale, e cioe:<br>
 Signao integer NOT NULL DEFAULT -1,<br>
+<br>
 (altro problema, mysql nn accetta dati con nome “Signal” e noi ne creiamo un’altra con nome Signao, poi vi spiego perche!)</p>
 <p class="has-line-data" data-line-start="74" data-line-end="75">salvare.</p>
 <p class="has-line-data" data-line-start="76" data-line-end="77">e importare il db di gammu con phpmyadmin</p>
