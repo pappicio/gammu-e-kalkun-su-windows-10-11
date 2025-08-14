@@ -146,7 +146,7 @@ da:<br>
 $response[‘signal’] = intval($this-&gt;Kalkun_model-&gt;get_gammu_info(‘phone_signal’)-&gt;row(‘Signal’));<br>
 a:<br>
 $response[‘signal’] = intval($this-&gt;Kalkun_model-&gt;get_gammu_info(‘phone_signal’)-&gt;row(‘Signao’));<br>
-(per accedere alla voce del db modificato che viene riempito da gammu-smsd.exe patchatiìo!)<br>
+(per accedere alla voce del db modificato che viene riempito da gammu-smsd.exe con la nuova patch! da Signal a Signao )<br>
 nel file: C:\xampp\htdocs\kalkun\application\models\Kalkun_model.php<br>
 da:<br>
 $this-&gt;db-&gt;select(‘Signal’);<br>
